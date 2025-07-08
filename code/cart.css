@@ -1,0 +1,106 @@
+/* Basisstyles */
+body {
+  font-family: "Segoe UI", sans-serif;
+  background: #f3f4f3;
+  color: #333;
+  margin: 0;
+  padding: 1rem;
+}
+
+h1 {
+  margin-bottom: 1rem;
+  color: #264d36;
+  text-align: center;
+}
+
+.container {
+  display: grid;
+  gap: 2rem;
+}
+
+/* Warenkorb Liste */
+ul.cart-items {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+ul.cart-items li {
+  background: #2e4e2e;
+  color: white;
+  margin-bottom: 0.5rem;
+  padding: 0.75rem;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Gesamtbetrag */
+.cart-total {
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-bottom: 1.5rem;
+  text-align: right;
+}
+
+/* Formular */
+form {
+  background: white;
+  padding: 1rem;
+  border-radius: 8px;
+  max-width: 400px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+form label {
+  display: block;
+  margin-bottom: 0.25rem;
+  font-weight: 600;
+}
+
+form input,
+form button {
+  width: 100%;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  font-size: 1rem;
+  box-sizing: border-box;
+}
+
+form button {
+  background: #264d36;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-weight: 700;
+  transition: background-color 0.3s ease;
+}
+
+form button:hover {
+  background: #1e3a27;
+}
+
+/* --- Responsive Grid --- */
+
+/* Mobile: 1 Spalte */
+@media (max-width: 767px) {
+  .container {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Desktop ab 768px: 2 Spalten */
+@media (min-width: 768px) {
+  .container {
+    grid-template-columns: 2fr 1fr; /* Warenkorb links, Formular rechts */
+    align-items: start;
+  }
+
+  ul.cart-items {
+    max-height: 400px;
+    overflow-y: auto;
+  }
+}

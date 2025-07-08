@@ -1,0 +1,713 @@
+[
+  {
+    "id": 1,
+    "name": "Fj\u00e4llr\u00e4ven Abisko Lite Sleeping Bag",
+    "price": 189,
+    "category": "Sleeping",
+    "description": "Lightweight sleeping bag for summer nights and hikes.",
+    "images": [
+      "https://www.fjallraven.com/4a8b13/globalassets/catalogs/fjallraven/f3/f342/f34200/f3420001/f34200011/f630/abisko_three_seasons_w_34200011-630_a_main_fjr.jpg?width=264&height=264&rmode=BoxPad&bgcolor=fff&quality=100",
+      "https://www.fjallraven.com/4a5b36/globalassets/catalogs/fjallraven/f3/f332/f33200/f3320009/f33200099/features/abisko_summer_lite_33200099-630_f_model_fjr.jpg?width=2000&height=2000&rmode=BoxPad&bgcolor=fff&quality=100",
+      "https://www.fjallraven.com/4a5b56/globalassets/catalogs/fjallraven/f3/f332/f33200/f3320009/f33200099/features/abisko_summer_lite_33200099-630_m_model_fjr.jpg?width=2000&height=2000&rmode=BoxPad&bgcolor=fff&quality=100"
+    ],
+    "videos": ["https://www.youtube.com/watch?v=yiQFPOK55tQ"],
+    "author": {
+      "name": "Lena Bergstr\u00f6m",
+      "role": "Outdoor Specialist"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Sea to Summit Spark SpIII",
+    "price": 299,
+    "category": "Sleeping",
+    "description": "Ultralight down sleeping bag for alpine adventures.",
+    "images": [
+      "https://www.bfgcdn.com/1500_1500_90/513-1010/sea-to-summit-spark-spiii-daunenschlafsack-detail-4.jpg",
+      "https://www.bfgcdn.com/1500_1500_90/513-1010/sea-to-summit-spark-spiii-daunenschlafsack.jpg"
+    ],
+    "videos": ["https://youtu.be/82DtI5dCtWc"],
+    "author": {
+      "name": "Lena Bergstr\u00f6m",
+      "role": "Outdoor Specialist",
+      "avatar": "lena.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Therm-a-Rest NeoAir Xlite",
+    "price": 210,
+    "category": "Sleeping",
+    "description": "Insulated sleeping pad for high thermal efficiency.",
+    "images": [
+      "https://images.snowleader.com/cdn-cgi/image/f=auto,fit=scale-down,q=85/https://images.snowleader.com/media/catalog/product/cache/1/image/0dc2d03fe217f8c83829496872af24a0/T/H/THEA00277_01.jpg",
+      "https://cascadedesigns.com/cdn/shop/files/11627_2022_TR_Xlite_NXT_rinckenberger_perputual_03.jpg?v=1724820256&width=1946"
+    ],
+    "author": {
+      "name": "Lena Bergstr\u00f6m",
+      "role": "Outdoor Specialist",
+      "avatar": "lena.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Big Agnes Torchlight UL 20",
+    "price": 330,
+    "category": "Sleeping",
+    "description": "Expandable mummy bag with customizable fit.",
+    "images": [
+      "https://www.bfgcdn.com/600_600_90/513-1187/big-agnes-torchlight-ul-20-down-sleeping-bag-detail-2.jpg",
+      "https://www.bfgcdn.com/1500_1500_90/513-1187/big-agnes-torchlight-ul-20-daunenschlafsack-detail-4.jpg"
+    ],
+    "videos": ["https://www.youtube.com/watch?v=z5w_QvEV4W4"],
+    "author": {
+      "name": "Lena Bergstr\u00f6m",
+      "role": "Outdoor Specialist",
+      "avatar": "lena.jpg"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Nemo Disco 15",
+    "price": 280,
+    "category": "Sleeping",
+    "description": "Spacious down bag for side sleepers.",
+    "images": [
+      "https://images.hardloop.fr/329495-large_default/nemo-disco-15-sleeping-bag-herren.jpg",
+      "https://www.localsupplyco.ca/cdn/shop/products/nemodisco2_1024x.jpg?v=1652998373",
+      "https://images.hardloop.fr/175327/nemo-disco-15-sleeping-bag-herren.jpg?w=auto&h=auto&q=80"
+    ],
+    "videos": ["https://www.youtube.com/watch?v=xi8kXSr1drQ"],
+    "author": {
+      "name": "Lena Bergstr\u00f6m",
+      "role": "Outdoor Specialist",
+      "avatar": "lena.jpg"
+    }
+  },
+  {
+    "id": 6,
+    "name": "REI Co-op Magma 15",
+    "price": 329,
+    "category": "Sleeping",
+    "description": "Premium warmth-to-weight performance.",
+    "images": [
+      "https://d1nymbkeomeoqg.cloudfront.net/photos/23/82/359705_14784_XXL.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Ck8b663imiX-CTVt2E7o0wcPBTIcpTCVRg&s",
+      "https://d1nymbkeomeoqg.cloudfront.net/photos/20/85/330042_5521_L2.jpg"
+    ],
+    "videos": ["https://www.youtube.com/watch?v=6Tbcwu9U3lQ"],
+    "author": {
+      "name": "Lena Bergstr\u00f6m",
+      "role": "Outdoor Specialist",
+      "avatar": "lena.jpg"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Marmot Trestles Elite Eco 20",
+    "price": 159,
+    "category": "Sleeping",
+    "description": "Eco-friendly synthetic insulation.",
+    "images": [
+      "https://www.bfgcdn.com/1500_1500_90/514-0742/marmot-womens-trestles-elite-eco-20-kunstfaserschlafsack-detail-4.jpg",
+      "https://www.cleverhiker.com/wp-content/uploads/2024/08/IMG_4289-1-scaled.jpg"
+    ],
+    "videos": ["https://www.youtube.com/watch?v=tEFoRwU82dY"],
+    "author": {
+      "name": "Lena Bergstr\u00f6m",
+      "role": "Outdoor Specialist",
+      "avatar": "lena.jpg"
+    }
+  },
+  {
+    "id": 8,
+
+    "name": "Kelty Cosmic Down 20",
+    "price": 170,
+    "category": "Sleeping",
+    "description": "Affordable down sleeping bag for beginners.",
+    "images": [
+      "https://cdn11.bigcommerce.com/s-c9gaghhv/images/stencil/1280x1280/products/3292/11607/35413724RR_ALT01_Kelty_S24_CosmicDown_20Reg__09958.1729532774.jpg?c=2",
+      "https://cdn11.bigcommerce.com/s-c9gaghhv/images/stencil/1280x1280/products/3292/11830/35413724RR_ALT13_Kelty_S24_CosmicDown_20Reg__35805.1737670391.jpg?c=2"
+    ],
+    "videos": ["https://www.youtube.com/watch?v=9p_zJddoghg"],
+    "author": {
+      "name": "Lena Bergstr\u00f6m",
+      "role": "Outdoor Specialist",
+      "avatar": "lena.jpg"
+    }
+  },
+  {
+    "id": 9,
+
+    "name": "Western Mountaineering Ultralite",
+    "price": 500,
+    "category": "Sleeping",
+    "description": "Top-tier bag with incredible warmth.",
+    "images": [
+      "https://www.outdoorsurvival.ch/wp-content/uploads/2025/01/Ultralite-Top-Closed-zipper-1200x1200-1.jpg",
+      "https://media.globetrotter.de/detail/117112001_d_ultralite_western_mountaineering.jpg"
+    ],
+    "videos": [],
+    "author": {
+      "name": "Lena Bergstr\u00f6m",
+      "role": "Outdoor Specialist",
+      "avatar": "lena.jpg"
+    }
+  },
+  {
+    "id": 10,
+
+    "name": "Mountain Hardwear Bishop Pass 15",
+    "price": 250,
+    "category": "Sleeping",
+    "description": "Durable and cozy bag for cold nights.",
+    "images": [
+      "https://images.hardloop.fr/337638-large_default/mountain-hardwear-bishop-pass-15f-9c-sleeping-bag.jpg",
+      "https://d1nymbkeomeoqg.cloudfront.net/photos/28/74/408901_28970_L2.jpg"
+    ],
+    "videos": [
+      "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR-m4D89D19v-zcv-mqXB4Exl1ZELjJ-SdHlA"
+    ],
+    "author": {
+      "name": "Lena Bergstr\u00f6m",
+      "role": "Outdoor Specialist",
+      "avatar": "lena.jpg"
+    }
+  },
+  {
+    "id": 11,
+
+    "name": "MSR PocketRocket 2 Stove",
+    "price": 60,
+    "category": "Cooking",
+    "description": "Compact stove for quick cooking on the trail.",
+    "images": [
+      "https://assets.transa.ch/master/1247407.jpg?ar=1:1&w=1080&h=1080&format=auto&mode=fillmax&trim=1",
+      "https://sichersatt.ch/content/uploads/2022/03/09884_msr_pocketrocket_2_packed_1.jpg",
+      "https://www.rei.com/media/26d6a5fd-fa4c-4739-b576-3d2e46d5f522.jpg?size=1075"
+    ],
+    "videos": [],
+    "author": {
+      "name": "Tobias Greenwald",
+      "role": "Forest Educator",
+      "avatar": "tobias.jpg"
+    }
+  },
+  {
+    "id": 12,
+
+    "name": "Jetboil Flash Cooking System",
+    "price": 120,
+    "category": "Cooking",
+    "description": "All-in-one boiling system for fast meals.",
+    "images": [
+      "https://images.hardloop.fr/20451-large_default/jetboil-flash-cooking-system.jpg?w=auto&h=auto&q=80",
+      "https://johnsonoutdoors.widen.net/content/pdcyv7q5e6/webp/1122525_insitu01.webp?w=640"
+    ],
+    "videos": [],
+    "author": {
+      "name": "Tobias Greenwald",
+      "role": "Forest Educator",
+      "avatar": "tobias.jpg"
+    }
+  },
+  {
+    "id": 13,
+
+    "name": "Snow Peak LiteMax Titanium",
+    "price": 90,
+    "category": "Cooking",
+    "description": "Ultralight stove for solo adventures.",
+    "images": [
+      "https://www.snowpeak.com/cdn/shop/products/litemax_titanium_stove_gst-120r-us_hero_01.jpg?v=1587495564",
+      "https://www.snowpeak.com/cdn/shop/products/litemax_titanium_stove_gst-120r-us_lifestyle_05.jpg?v=1710284912&width=800"
+    ],
+    "videos": [],
+    "author": {
+      "name": "Tobias Greenwald",
+      "role": "Forest Educator",
+      "avatar": "tobias.jpg"
+    }
+  },
+  {
+    "id": 14,
+
+    "name": "Primus Omnilite Ti",
+    "price": 220,
+    "category": "Cooking",
+    "description": "Multi-fuel stove for harsh conditions.",
+    "images": [
+      "https://www.trailshop.ch/media/catalog/product/cache/2a6b0744b87cbe1990f7a65c1fd3659e/K/V/KV_321975_3438.jpg",
+      "https://bikepacking.com/wp-content/uploads/2020/03/primus-micron-omnilite-ti-stoves-5.jpg"
+    ],
+    "videos": [],
+    "author": {
+      "name": "Tobias Greenwald",
+      "role": "Forest Educator",
+      "avatar": "tobias.jpg"
+    }
+  },
+  {
+    "id": 15,
+
+    "name": "Trangia 25-3 UL",
+    "price": 95,
+    "category": "Cooking",
+    "description": "Classic alcohol stove with windscreen.",
+    "images": [
+      "https://trangia.se/wp-content/uploads/2024/11/131253.jpg",
+      "https://quickbutik.imgix.net/37401w/products/622f0a61478c6.jpeg"
+    ],
+    "videos": [],
+    "author": {
+      "name": "Tobias Greenwald",
+      "role": "Forest Educator",
+      "avatar": "tobias.jpg"
+    }
+  },
+  {
+    "id": 16,
+
+    "name": "GSI Pinnacle Canister Stove",
+    "price": 80,
+    "category": "Cooking",
+    "description": "Efficient burner with simmer control.",
+    "images": [
+      "https://gsioutdoors.com/cdn/shop/products/56002_3_g.jpg?v=1747248892&width=1946",
+      "https://scouttech.com/cdn/shop/products/56004-7_2048x.jpg?v=1617861591"
+    ],
+    "videos": [],
+    "author": {
+      "name": "Tobias Greenwald",
+      "role": "Forest Educator",
+      "avatar": "tobias.jpg"
+    }
+  },
+  {
+    "id": 17,
+
+    "name": "BioLite CampStove 2+",
+    "price": 150,
+    "category": "Cooking",
+    "description": "Generates power from fire for USB charging.",
+    "images": [
+      "https://www.bioliteenergy.com/cdn/shop/files/campstove-2csc0200-382115.png?v=1711827654&width=1024",
+      "https://www.novis.ch/thumbor/GMRHEUECL5S1uxmvmbdhiFetX34=/fit-in/3600x2700/filters:cachevalid(2021-02-06T13:10:38):strip_icc():strip_exif()/images/csc0200_5.jpg"
+    ],
+    "videos": [],
+    "author": {
+      "name": "Tobias Greenwald",
+      "role": "Forest Educator",
+      "avatar": "tobias.jpg"
+    }
+  },
+  {
+    "id": 18,
+
+    "name": "Soto WindMaster",
+    "price": 75,
+    "category": "Cooking",
+    "description": "Performs well in strong winds.",
+    "images": [
+      "https://www.galaxus.ch/productimages/1/3/0/3/7/9/6/2/9/3/6/3/8/5/9/1/9/8/4/af3c9ccc-57a9-43fe-a696-f4f546a29025_cropped.jpg",
+      "https://static.transa.ch/master/1672853.jpg"
+    ],
+    "videos": [],
+    "author": {
+      "name": "Tobias Greenwald",
+      "role": "Forest Educator",
+      "avatar": "tobias.jpg"
+    }
+  },
+  {
+    "id": 19,
+
+    "name": "Fire-Maple Polaris",
+    "price": 100,
+    "category": "Cooking",
+    "description": "Integrated canister system.",
+    "images": [
+      "https://sport-marafon.ru/upload/resize_cache/files/iblock/elements/351bc5d5-74db-11e1-a802-e4115b3ed52e/a429c492-f7af-11ec-85da-b42e99c9b482/570_550_1/a429c492f7af11ec85dab42e99c9b482_14eeeb8575bd11ef85dcb42e99c9b482.png",
+      "https://ae01.alicdn.com/kf/H728250f9402a4788aa11f80e5c1549d9h.png"
+    ],
+    "videos": [],
+    "author": {
+      "name": "Tobias Greenwald",
+      "role": "Forest Educator",
+      "avatar": "tobias.jpg"
+    }
+  },
+  {
+    "id": 20,
+
+    "name": "Evernew Ti Alcohol Stove",
+    "price": 60,
+    "category": "Cooking",
+    "description": "Titanium build for minimalist cooks.",
+    "images": [
+      "https://www.trekitt.co.uk/images/products/archive/1/10/1000-1000-max%20(5).jpg",
+      "https://evernew-global.com/assets/images/stove/img-Stoveset1.jpg"
+    ],
+    "videos": [],
+    "author": {
+      "name": "Tobias Greenwald",
+      "role": "Forest Educator"
+    }
+  },
+  {
+    "id": 21,
+
+    "name": "Helinox Chair Zero",
+    "price": 120,
+    "category": "Furniture",
+    "description": "Ultralight chair for trekkers.",
+    "images": [
+      "https://static02.galaxus.com/productimages/2/5/4/7/0/1/2/4/4/3/6/7/6/1/7/7/3/3/5/516b505c-a8f6-449e-b24a-f034289aa1db_cropped.jpg_sea.jpeg",
+      "https://lifeinutopia.com/wp-content/uploads/2023/08/Helinox-Chair-Zero.webp"
+    ],
+    "videos": ["https://www.youtube.com/watch?v=yaE3uw1Hdgc"],
+    "author": {
+      "name": "Max Kramer",
+      "role": "Bushcraft Guide"
+    }
+  },
+  {
+    "id": 22,
+
+    "name": "REI Flexlite Camp Chair",
+    "price": 100,
+    "category": "Furniture",
+    "description": "Packable comfort at a good price.",
+    "images": [
+      "https://www.rei.com/media/product/228236",
+      "https://hips.hearstapps.com/hmg-prod/images/rei-co-op-camp-dreamer-chair-033-6848853eafbe3.jpg?crop=0.538xw:0.717xh;0.140xw,0.182xh&resize=640:*"
+    ],
+    "videos": [],
+    "author": {
+      "name": "Max Kramer",
+      "role": "Bushcraft Guide"
+    }
+  },
+  {
+    "id": 23,
+
+    "name": "Big Agnes Skyline UL",
+    "price": 140,
+    "category": "Furniture",
+    "description": "Durable high-back support.",
+    "images": [
+      "https://m.media-amazon.com/images/I/81BGl4gv-8L.jpg",
+      "https://d1nymbkeomeoqg.cloudfront.net/photos/22/41/345576_30949_L2.jpg"
+    ],
+    "videos": [],
+    "author": {
+      "name": "Max Kramer",
+      "role": "Bushcraft Guide"
+    }
+  },
+  {
+    "id": 24,
+
+    "name": "Therm-a-Rest Z Seat",
+    "price": 25,
+    "category": "Furniture",
+    "description": "Foldable foam sitting pad.",
+    "images": [
+      "https://images.bike24.com/i/mb/a9/cd/46/09948-zseat-coyote-2-1539862.jpg",
+      "https://m.media-amazon.com/images/I/91xCPteZ4eL._UF350,350_QL80_.jpg"
+    ],
+    "videos": [],
+    "author": {
+      "name": "Max Kramer",
+      "role": "Bushcraft Guide"
+    }
+  },
+  {
+    "id": 25,
+
+    "name": "Crazy Creek Original Chair",
+    "price": 55,
+    "category": "Furniture",
+    "description": "Ground-level comfort.",
+    "images": [
+      "https://crazycreek.com/cdn/shop/products/Main_B071S1DC53_1500x.jpg?v=1750267601",
+      "https://media.widforss.se/product-images/XL/crazy-creek-aircliner-original-chair-big-sky-blue-2.jpg"
+    ],
+    "videos": [],
+    "author": {
+      "name": "Max Kramer",
+      "role": "Bushcraft Guide"
+    }
+  },
+  {
+    "id": 26,
+
+    "name": "NEMO Stargaze Recliner",
+    "price": 250,
+    "category": "Furniture",
+    "description": "Luxury swinging camp chair.",
+    "images": [
+      "https://www.bfgcdn.com/1500_1500_90/580-1383-0611/nemo-stargaze-reclining-camp-chair-campingstuhl.jpg",
+      "https://images.hardloop.fr/175946-large_default/nemo-stargaze-recliner-luxury-camping-chair.jpg",
+      "https://cdn.actionhub.com/wp-content/uploads/2022/09/NEMO-Stargaze_mediumshot_SuzanneDowning-800x600.jpg"
+    ],
+    "videos": [],
+    "author": {
+      "name": "Max Kramer",
+      "role": "Bushcraft Guide"
+    }
+  },
+  {
+    "id": 27,
+
+    "name": "GCI Outdoor Kickback Rocker",
+    "price": 70,
+    "category": "Furniture",
+    "description": "Compact rocker for relaxation.",
+    "images": [
+      "https://assets.basspro.com/image/upload/b_rgb:FFFFFF,c_pad,dpr_2.0,f_auto,h_250,q_auto,w_400/c_pad,h_250,w_400/v1/ProductImages/350/heatheredindigo_100998686_main?pgw=1",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHMiCzBgi1jnCXIQjFSc4S0KngDPqIMWP42g&s"
+    ],
+    "videos": [],
+    "author": {
+      "name": "Max Kramer",
+      "role": "Bushcraft Guide",
+      "avatar": "max.jpg"
+    }
+  },
+  {
+    "id": 28,
+
+    "name": "ALPS Mountaineering King Kong",
+    "price": 90,
+    "category": "Furniture",
+    "description": "Heavy-duty with side pockets.",
+    "images": [
+      "https://m.media-amazon.com/images/I/71oZj5BAtDL._UF894,1000_QL80_.jpg",
+      "https://d1nymbkeomeoqg.cloudfront.net/photos/28/45/406016_28214_L2.jpg"
+    ],
+    "videos": [],
+    "author": {
+      "name": "Max Kramer",
+      "role": "Bushcraft Guide",
+      "avatar": "max.jpg"
+    }
+  },
+  {
+    "id": 29,
+
+    "name": "Kijaro Dual Lock Chair",
+    "price": 60,
+    "category": "Furniture",
+    "description": "No-sag seating with lock system.",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlDhPEW08dxLw06BEeKVM81BAjzT27kEu7VQ-ukRMZbIG8Sg6icArpWazceM5Ms2aobjg&usqp=CAU",
+      "fhttps://cdn11.bigcommerce.com/s-8vrmsbmmt2/images/stencil/1280x1280/products/15675/15888/chair-web-4__04694.1730908699.jpg?c=1"
+    ],
+    "videos": [],
+    "author": {
+      "name": "Max Kramer",
+      "role": "Bushcraft Guide",
+      "avatar": "max.jpg"
+    }
+  },
+  {
+    "id": 30,
+
+    "name": "Coleman Portable Quad Chair",
+    "price": 45,
+    "category": "Furniture",
+    "description": "Affordable, reliable chair.",
+    "images": [
+      "https://m.media-amazon.com/images/I/8144z2T8HVL._UF350,350_QL80_.jpg",
+      "https://9to5toys.com/wp-content/uploads/sites/5/2020/07/Coleman-Portable-Camping-Quad-Chair.jpg"
+    ],
+    "videos": [],
+    "author": {
+      "name": "Max Kramer",
+      "role": "Bushcraft Guide",
+      "avatar": "max.jpg"
+    }
+  },
+  {
+    "id": 31,
+
+    "name": "MSR Hubba Hubba NX 2",
+    "price": 430,
+    "category": "Tents",
+    "description": "Best all-round 2-person tent.",
+    "images": [
+      "https://static01.galaxus.com/productimages/6/6/5/8/3/8/8/6/7/6/4/7/4/1/2/8/2/2/5/de953a1d-8e0f-4dbf-8a98-2fe513dafaf4_cropped.jpg_720.jpeg",
+      "https://www.schlanser.ch/media/76/81/2e/1692862181/e6473da4203d40b3b381fbb3cae148c4.jpg?1692862181"
+    ],
+    "videos": [],
+    "author": {
+      "name": "Lea Schneider",
+      "role": "Wild Camping Enthusiast",
+      "avatar": "lea.jpg"
+    }
+  },
+  {
+    "id": 32,
+
+    "name": "Big Agnes Copper Spur HV UL2",
+    "price": 500,
+    "category": "Tents",
+    "description": "High volume with ultralight materials.",
+    "images": [
+      "https://www.bfgcdn.com/1500_1500_90/520-1015/big-agnes-copper-spur-ul2-xl-2-person-tent-detail-6.jpg",
+      "https://i0.wp.com/tbo-media.sfo2.digitaloceanspaces.com/wp-content/uploads/2020/06/06230839/Big-Agnes-Copper-Spur-HV-UL2-new-lead.jpg"
+    ],
+    "videos": [],
+    "author": {
+      "name": "Lea Schneider",
+      "role": "Wild Camping Enthusiast",
+      "avatar": "lea.jpg"
+    }
+  },
+  {
+    "id": 33,
+
+    "name": "NEMO Hornet Elite OSMO",
+    "price": 530,
+    "category": "Tents",
+    "description": "Featherweight for serious backpackers.",
+    "images": [
+      "https://images.snowleader.com/cdn-cgi/image/f=auto,fit=scale-down,q=85/https://images.snowleader.com/media/catalog/product/cache/1/image/0dc2d03fe217f8c83829496872af24a0/N/E/NEMO00145_01.jpeg",
+      "https://i.ytimg.com/vi/wKC6M0n2-KQ/sddefault.jpg"
+    ],
+    "videos": [],
+    "author": {
+      "name": "Lea Schneider",
+      "role": "Wild Camping Enthusiast",
+      "avatar": "lea.jpg"
+    }
+  },
+  {
+    "id": 34,
+
+    "name": "REI Half Dome SL 2+",
+    "price": 349,
+    "category": "Tents",
+    "description": "Spacious and strong for weekend trips.",
+    "images": [
+      "https://www.rei.com/media/17d0f0fe-15d4-47bc-9113-aaf24eee0509.jpg?size=784x588",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV4Css1X8wkzCpI1L0pVMwkg-AXBLMZcc_-A&s"
+    ],
+    "videos": [],
+    "author": {
+      "name": "Lea Schneider",
+      "role": "Wild Camping Enthusiast",
+      "avatar": "lea.jpg"
+    }
+  },
+  {
+    "id": 35,
+
+    "name": "Hilleberg Nallo 2",
+    "price": 875,
+    "category": "Tents",
+    "description": "Premium 4-season tent.",
+    "images": [
+      "https://www.nordicoutdoor.co.uk/pub/media/mf_webp/jpg/media/catalog/product/cache/ff590cd75de8f9771faf7348d49cd007/h/i/hilleberg-nallo-2-green_1.webp",
+      "https://i1.adis.ws/i/jpl/ti_EATNZ7TI0019ALT_c"
+    ],
+    "videos": [],
+    "author": {
+      "name": "Lea Schneider",
+      "role": "Wild Camping Enthusiast",
+      "avatar": "lea.jpg"
+    }
+  },
+  {
+    "id": 36,
+
+    "name": "Zpacks Duplex",
+    "price": 699,
+    "category": "Tents",
+    "description": "Ultralight Dyneema shelter.",
+    "images": [
+      "https://zpacks.com/cdn/shop/products/Duplex-spruce_1200x1200.jpg?v=1719855836",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxm_u7toY7J460L0WyN1qNzpFvNsSPapyDMDREdnc3O4Z7y-18LIiK7b4sNW1k0UaBzvg&usqp=CAU"
+    ],
+    "videos": [],
+    "author": {
+      "name": "Lea Schneider",
+      "role": "Wild Camping Enthusiast",
+      "avatar": "lea.jpg"
+    }
+  },
+  {
+    "id": 37,
+
+    "name": "Tarptent Double Rainbow",
+    "price": 299,
+    "category": "Tents",
+    "description": "Simple single-wall shelter.",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCA7YgvLxrIBvplHtio2YOPML8pM5NH5fsqw&s",
+      "https://www.garagegrowngear.com/cdn/shop/files/Double_Rainbow_by_Tarptent.png?v=1749245696"
+    ],
+    "videos": [],
+    "author": {
+      "name": "Lea Schneider",
+      "role": "Wild Camping Enthusiast",
+      "avatar": "lea.jpg"
+    }
+  },
+  {
+    "id": 38,
+
+    "name": "Black Diamond FirstLight",
+    "price": 400,
+    "category": "Tents",
+    "description": "Alpine bivy tent for winter.",
+    "images": [
+      "https://live.staticflickr.com/6098/6273032304_612feb7801_b.jpg",
+      "https://i.ytimg.com/vi/0MNW-907mgg/maxresdefault.jpg"
+    ],
+    "videos": [
+      "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0MNW-907mgg&psig=AOvVaw3imepfBUT7KMLK2k7uVp3Z&ust=1751886040134000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjB95yKqI4DFQAAAAAdAAAAABAK"
+    ],
+    "author": {
+      "name": "Lea Schneider",
+      "role": "Wild Camping Enthusiast",
+      "avatar": "lea.jpg"
+    }
+  },
+  {
+    "id": 39,
+
+    "name": "Six Moon Designs Lunar Duo",
+    "price": 375,
+    "category": "Tents",
+    "description": "Huge interior space.",
+    "images": [
+      "https://www.backpackinglight.com.au/cdn/shop/products/29766-vdpe-2deh-h6wv-jqcs-yybx-img-21003-d72dce96.jpg?v=1678340335",
+      "https://bikepacking.com/wp-content/uploads/2020/05/six-moon-designs-lunar-solo-review_0.jpg"
+    ],
+    "videos": ["https://youtu.be/m6cRv9IGadg"],
+    "author": {
+      "name": "Lea Schneider",
+      "role": "Wild Camping Enthusiast"
+    }
+  },
+  {
+    "id": 40,
+
+    "name": "The North Face Stormbreak 2",
+    "price": 185,
+    "category": "Tents",
+    "description": "Budget-friendly classic tent.",
+    "images": [
+      "https://www.rei.com/media/e153b6cf-845b-4d55-92da-aa39f5fdabb8",
+      "https://www.australiangeographic.com.au/wp-content/uploads/2023/09/AGA_DIGITAL_GT_TNF-TENT002-1800x1187.jpg"
+    ],
+    "videos": [],
+    "author": {
+      "name": "Lea Schneider",
+      "role": "Wild Camping Enthusiast"
+    }
+  }
+]

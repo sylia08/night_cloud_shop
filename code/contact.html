@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Contact</title>
+    <link rel="stylesheet" href="contact.css" />
+  </head>
+  <body>
+    <header>
+      <nav class="topnav">
+        <div class="logo">
+          <a href="home.html">CampGreen</a>
+        </div>
+        <ul class="nav-links">
+          <li><a href="home.html">Home</a></li>
+          <li><a href="shop.html">Products</a></li>
+          <li><a href="contact.html" class="active">Contact</a></li>
+        </ul>
+        <button class="nav-toggle" aria-label="Toggle navigation">☰</button>
+      </nav>
+    </header>
+
+    <main>
+      <section class="contact-section">
+        <h2>Our Team</h2>
+        <div class="contact-grid">
+          <div class="contact-card">
+            <img
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfd1D-ZKb1KyjBxDIDqzqYlbmVm7pmqJreDA&s"
+              alt="Anna"
+            />
+            <p>Anna Keller</p>
+          </div>
+          <div class="contact-card">
+            <img
+              src="https://www.muchbetteradventures.com/magazine/content/images/2022/05/minimalist-camping.jpg"
+              alt="Max"
+            />
+            <p>Max Steiner</p>
+          </div>
+          <div class="contact-card">
+            <img
+              src="https://c.stocksy.com/a/93s200/z9/684427.jpg"
+              alt="Lina"
+            />
+            <p>Lina Müller</p>
+          </div>
+          <div class="contact-card">
+            <img
+              src="https://www.muchbetteradventures.com/magazine/content/images/size/w2000/2022/05/wild-camping-family.jpg"
+              alt="Tom"
+            />
+            <p>Tom Berger</p>
+          </div>
+        </div>
+      </section>
+
+      <h2>About Us</h2>
+      <img src="" alt="" />
+      <p>
+        Welcome to Natur Shop! We’re passionate about bringing you quality
+        outdoor gear that helps you connect with nature.
+      </p>
+      <p>
+        Our mission is to provide eco-friendly, durable products designed to
+        enhance your adventures.
+      </p>
+      <p>
+        Founded in 2023, we’ve grown thanks to a community that values
+        sustainability and quality.
+      </p>
+      <p>
+        Feel free to reach out anytime—we’re here to help you take the next step
+        into nature!
+      </p>
+
+      <h2>Contact Us</h2>
+      <form id="contactForm">
+        <label for="name">Name</label>
+        <input
+          type="text"
+          id="name"
+          name="name"
+          placeholder="Your full name"
+          required
+        />
+
+        <label for="email">Email</label>
+        <input
+          type="email"
+          id="email"
+          name="email"
+          placeholder="email@example.com"
+          required
+        />
+
+        <label for="message">Message</label>
+        <textarea
+          id="message"
+          name="message"
+          rows="5"
+          placeholder="Write your message here"
+          required
+        ></textarea>
+
+        <div class="form-buttons">
+          <button type="submit">Send Message</button>
+          <button type="reset" class="reset-btn">Clear</button>
+        </div>
+      </form>
+    </main>
+
+    <footer>
+      <p>&copy; 2025 CampGreen / Natur Shop. All rights reserved.</p>
+    </footer>
+  </body>
+</html>

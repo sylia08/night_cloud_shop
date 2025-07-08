@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Web Shop</title>
+    <link rel="stylesheet" href="shop.css" />
+  </head>
+  <body>
+    <header>
+      <nav class="topnav">
+        <div class="logo">
+          <a href="home.html">CampGreen</a>
+        </div>
+        <ul class="nav-links">
+          <li><a href="home.html">Home</a></li>
+          <li><a href="shop.html">Products</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+        <button class="nav-toggle" aria-label="Toggle navigation">☰</button>
+      </nav>
+    </header>
+
+    <main>
+      <div class="category-buttons">
+        <button class="category-button active" data-category="all">All</button>
+        <button class="category-button" data-category="Sleeping">
+          Sleeping bag
+        </button>
+        <button class="category-button" data-category="Cooking">
+          Cooking stove
+        </button>
+        <button class="category-button" data-category="Furniture">
+          Camping Chair
+        </button>
+        <button class="category-button" data-category="Tents">Tents</button>
+      </div>
+
+      <div class="product-grid"></div>
+    </main>
+    <footer>
+      <p>&copy; 2025 CampGreen / Natur Shop. All rights reserved.</p>
+    </footer>
+    <script src="products.js"></script>
+  </body>
+</html>

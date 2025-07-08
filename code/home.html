@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="home.css" />
+  </head>
+
+  <body>
+    <header>
+      <nav class="topnav">
+        <div class="logo">
+          <a href="home.html">CampGreen</a>
+        </div>
+        <ul class="nav-links">
+          <li><a href="home.html">Home</a></li>
+          <li><a href="shop.html">Products</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+        <button class="nav-toggle" aria-label="Toggle navigation">☰</button>
+      </nav>
+    </header>
+
+    <main>
+      <video src="img/walk.mp4" autoplay muted loop></video>
+      <h1>Take a Step into Nature</h1>
+      <section class="new-projects">
+        <h2 class="h2">New Projects</h2>
+        <div class="product-grid"></div>
+      </section>
+
+      <section class="categories">
+        <h2>Catalog</h2>
+        <div class="categories-grid">
+          <article class="sleeping-link">
+            <h3>Sleeping</h3>
+            <img src="img/sleepingbag.png" alt="Sleep" />
+          </article>
+          <article class="cooking-link">
+            <h3>Cooking</h3>
+            <img src="img/fork.png" alt="Cooking" />
+          </article>
+          <article class="furniture-link">
+            <h3>Furniture</h3>
+            <img src="img/chair.png" alt="Furniture" />
+          </article>
+          <article class="tent-link">
+            <h3>Tents</h3>
+            <img src="img/tent.png" alt="Tents" />
+          </article>
+        </div>
+      </section>
+
+      <section class="subscribe-section">
+        <h2>Subscribe to Our Newsletter</h2>
+        <p>Stay updated with the latest products and offers.</p>
+        <form class="subscribe-form">
+          <div class="form-group">
+            <label for="fname">First Name</label>
+            <input type="text" id="fname" name="fname" required />
+          </div>
+          <div class="form-group">
+            <label for="email">Email Address</label>
+            <input type="email" id="email" name="email" required />
+          </div>
+          <button type="submit">Subscribe</button>
+        </form>
+      </section>
+    </main>
+
+    <footer>
+      <p>&copy; 2025 CampGreen / Natur Shop. All rights reserved.</p>
+    </footer>
+    <script src="newsletter.js"></script>
+  </body>
+</html>
