@@ -102,8 +102,6 @@ section {
 section h1,
 section h2 {
   color: #264d36;
-  margin-bottom: 1rem;
-  align-self: center;
 }
 
 #about p {
@@ -111,7 +109,11 @@ section h2 {
   font-size: 1rem;
   display: flex;
   justify-content: center;
-  align-self: center;
+  align-items: center;
+}
+
+#about p > * {
+  text-align: center;
 }
 
 form {
@@ -170,15 +172,15 @@ button:focus {
 }
 
 .contact-section {
-  padding: 2rem;
+  padding: 1rem;
   text-align: center;
-
-  background-color: #264d36;
+  background-color: #44785a;
 }
 
 .contact-section h2 {
   margin-bottom: 1.5rem;
   font-size: 2rem;
+  color: #ddd;
 }
 
 .contact-grid {
@@ -193,7 +195,9 @@ button:focus {
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 120px;
+  justify-content: center;
+
+  color: #ddd;
 }
 
 .contact-card img {
@@ -208,4 +212,11 @@ button:focus {
 .contact-card p {
   font-weight: 500;
   font-size: 1rem;
+}
+
+footer {
+  background: #264d36;
+  color: white;
+  padding: 1.5rem;
+  text-align: center;
 }
