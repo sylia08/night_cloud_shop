@@ -14,10 +14,13 @@
 ---
 
 ## Wireframes
-
+## Home
 ![alt text](<Screenshot 2025-07-08 071830.png>)
+## Contact
 ![alt text](<Screenshot 2025-07-08 071818.png>)
+## Shop
 ![alt text](<Screenshot 2025-07-08 071804.png>)
+## Article
 ![alt text](<Screenshot 2025-07-08 071757.png>)
 
 ---
