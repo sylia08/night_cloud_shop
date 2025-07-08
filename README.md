@@ -166,16 +166,7 @@ Hier ist ein kompakter, klar formulierter **Styleguide für dein CSS**, passend 
   - CSS-Selektoren, die nicht griffen
   - Live-Korrektur in Cursor mit Inline-KI-Tipps
 
----
 
-## Screenshots / Beispiele (optional beifügen)
-
-- Layout-Vergleich: Vorher-Nachher mit KI-Optimierung
-- Cursor-KI-Chat mit generierten Snippets
-- Beispielhafte Produktkarte mit Hover-Animation
-- Chatverlauf, der einen JS-Fehler löst
-
----
 
 ## Fazit: Effizienter & intelligenter entwickeln mit KI
 
